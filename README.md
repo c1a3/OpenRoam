@@ -121,12 +121,13 @@ repeat.
 gamemode1 to specify the second, etc.
 
 ## In-game Screenshots
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/c8f745ec-2524-4b46-8768-7c09a98789b9" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f3b8bf0d-19b2-4345-8dc7-36a30693d9ae" />
-<img width="1440" height="900" alt="3" src="https://github.com/user-attachments/assets/6765b202-34c5-44a3-b2de-042490ee96c5" />
-<img width="1672" height="941" alt="4" src="https://github.com/user-attachments/assets/24110557-86fa-4f48-9811-c2d7f8559dd4" />
-<img width="1672" height="941" alt="5" src="https://github.com/user-attachments/assets/6922e3a0-657e-45f6-bedd-2ffbd2b0c96e" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/cdf590c5-ddac-4e44-96a1-18a1f073ddbe" />
+<img width="1200" height="675" alt="1" src="https://github.com/user-attachments/assets/e85b1197-b72c-4e8b-aa9b-8f17d3181c66" />
+<img width="1200" height="675" alt="2" src="https://github.com/user-attachments/assets/bdd325b9-8879-471a-9661-fe331dc03cc7" />
+<img width="1200" height="750" alt="3" src="https://github.com/user-attachments/assets/a768580e-4530-4574-8f4e-7e23bdf84ed9" />
+<img width="1200" height="675" alt="4" src="https://github.com/user-attachments/assets/467b6f62-52a9-4665-93b3-01d55a30d3ed" />
+<img width="1200" height="675" alt="5" src="https://github.com/user-attachments/assets/ef6a97e7-a665-4370-871f-c7297ab48493" />
+<img width="1200" height="675" alt="6" src="https://github.com/user-attachments/assets/333e597f-fa3e-41c5-bc96-5953cb453e96" />
+
 
 
 ## Dependencies  
